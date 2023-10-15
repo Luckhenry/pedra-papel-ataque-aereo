@@ -2,8 +2,8 @@ import java.util.Scanner;
 public class Problem {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
-      int N = leitor.nextInt();
-      String jogador1, jogador2;
+        int N = leitor.nextInt();
+        String jogador1, jogador2;
 // TODO: complete os espaços em branco com sua solução para o problema
       for (int i = 0; i < N; i++) {
           jogador1 = leitor.next();
